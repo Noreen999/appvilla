@@ -1,0 +1,16 @@
+.main{
+    background-color: #ff6b81;
+    height: 100vh;
+}
+
+
+@media (max-width: 425px) {
+    .header-content {
+       align-items: center;
+       text-align: center ;
+    }
+    
+}
+h6{
+    color: #ff6b81;
+}
